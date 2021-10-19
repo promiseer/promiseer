@@ -9,7 +9,7 @@ Hello, I'm Parmeshwar Rathod
 
 ## 👨🏾‍💻 ABOUT ME
 
-<p>Parmeshawar  is an Fresher Web Developer. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, from front-end(HTML5, CSS3, React js and Javascript) to back-end(Node Js, Express Js and PostgreSQL).</p>
+<p>Parmeshawar  is an Fresher Web Developer. have knowledge  front-end(HTML5, CSS3, React js and Javascript) to back-end(Node Js, Express Js and PostgreSQL).</p>
 
 
 ## ☎️ CONTACT ME
