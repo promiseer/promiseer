@@ -14,8 +14,8 @@ Hello, I'm Parmeshwar Rathod
 
 ## ☎️ CONTACT ME
 
-[![Linkedin Badge](https://img.shields.io/badge/-KevinOchieng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-ochiengg/)](https://www.linkedin.com/in/kevin-ochiengg/)
-[![Gmail Badge](https://img.shields.io/badge/-kevinochieng932@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevinochieng932@gmail.com)](mailto:kevinochieng932@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-parmeshwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parmeshwar4321/)](https://www.linkedin.com/in/parmeshwar4321/)
+[![Gmail Badge](https://img.shields.io/badge/-rathodparmeshwar4321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rathodparmeshwar4321@gmail.com)](mailto:rathodparmeshwar4321@gmail.com)
 
 <br />
 
