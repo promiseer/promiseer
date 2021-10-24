@@ -39,6 +39,7 @@ Hello, I'm Parmeshwar Rathod
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MYSQL&logoColor=336791)
+![postgreSQL](https://img.shields.io/badge/-postgreSQL-000000?style=flat&logo=postgreSQL&logoColor=336791)
 
 ### API
 
