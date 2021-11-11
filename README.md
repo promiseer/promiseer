@@ -1,8 +1,8 @@
 
 <h1 align="center">
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-Hello, I'm Parmeshwar Rathod
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
+Hey Coderz!   I'm Parmeshwar
+<!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
