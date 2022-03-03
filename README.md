@@ -27,6 +27,7 @@ Hey Coderz!   This is  Parmeshwar
 ### Programming Langauages
 
 ![python](https://img.shields.io/badge/-python-000000?style=flat&logo=python)
+![javascript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=javascript)
 
 
 ### Frontend
@@ -54,12 +55,14 @@ Hey Coderz!   This is  Parmeshwar
 ### Package managers
 
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
+![yarn](https://img.shields.io/badge/-NPM-000000?style=flat&logo=yarn&logoColor=CB3837)
 
 
 
 ### Version control system
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000000?style=flat&logo=Bitbucket&logoColor=F05032)
 
 ### Deployment services
 
