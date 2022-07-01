@@ -61,6 +61,7 @@ Hey Coderz!   This is  Parmeshwar
 
 ### Deployment services
 
+![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=flat&logo=Vercel%20AWS&logoColor=FFFFFF)
 ![Netlify](https://img.shields.io/badge/-Netlify-ffffff?style=flat&logo=Netlify%20AWS&logoColor=FFFFFF)
 ![Heroku](https://img.shields.io/badge/-Heroku-ffffff?style=flat&logo=Heroku%20AWS&logoColor=FFFFFF)
 
