@@ -44,6 +44,7 @@ Hey Coderz!   This is  Parmeshwar
 ### API
 
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-ffffff?style=flat&logo=RESTAPI&logoColor=336791)
+![Graphql](https://img.shields.io/badge/-Graphql-ffffff?style=flat&logo=Graphql&logoColor=336791)
 
 ### Package managers
 
