@@ -61,7 +61,8 @@ Hey Coderz!   This is  Parmeshwar
 
 
 ### Deployment services
-
+![Serverless](https://img.shields.io/badge/-Serverless-ffffff?style=flat&logo=Serverless&logoColor=F05032)
+![Aws](https://img.shields.io/badge/-Aws-ffffff?style=flat&logo=Aws&logoColor=F05032)
 ![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=flat&logo=Vercel%20AWS&logoColor=FFFFFF)
 ![Netlify](https://img.shields.io/badge/-Netlify-ffffff?style=flat&logo=Netlify%20AWS&logoColor=FFFFFF)
 ![Heroku](https://img.shields.io/badge/-Heroku-ffffff?style=flat&logo=Heroku%20AWS&logoColor=FFFFFF)
