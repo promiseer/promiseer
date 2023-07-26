@@ -7,11 +7,11 @@ Hey Coderz!   This is  Parmeshwar
 
 <img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parmeshwar4321&label=Profile%20views&color=0e75b6&style=flat" alt="parmeshwar4321" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=promiseer&label=Profile%20views&color=0e75b6&style=flat" alt="promiseer" /> </p>
 
 ## 👨🏾‍💻 ABOUT ME
 
-<p>i am Blockend/full-stack developer.</p>
+<p>i am Backend developer.</p>
 
 ## 👨🏾‍🔧 MY SKILL SET
 
