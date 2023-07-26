@@ -70,10 +70,10 @@ Hey Coderz!   This is  Parmeshwar
 ## ☎️ REACH ME OUT
 
 [![Linkedin Badge](https://img.shields.io/badge/-parmeshwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parmeshwar4321/)](https://www.linkedin.com/in/parmeshwar4321/)
-[![Instagram Badge](https://img.shields.io/badge/-parmeshwar-white?style=flat-square&logo=Instagram&logoColor=Pink&link=https://www.instagram.com/_p_a_r_m_y_a_.007/)](https://www.instagram.com/_p_a_r_m_y_a_.007/)
-[![Twitter Badge](https://img.shields.io/badge/-parmeshwar-white?style=flat-square&logo=Twitter&logoColor=Blue&link=https://www.twitter.com/parmeshwar4321)](https://www.twitter.com/parmeshwar4321)
+[![Instagram Badge](https://img.shields.io/badge/-parmeshwar-white?style=flat-square&logo=Instagram&logoColor=Pink&link=https://www.instagram.com/parmeshwar.me/)](https://www.instagram.com/_p_a_r_m_y_a_.007/)
+[![Twitter Badge](https://img.shields.io/badge/-parmeshwar-white?style=flat-square&logo=Twitter&logoColor=Blue&link=https://www.twitter.com/promiseeer)](https://www.twitter.com/promiseeer)
 [![Gmail Badge](https://img.shields.io/badge/-rathodparmeshwar4321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rathodparmeshwar4321@gmail.com)](mailto:rathodparmeshwar4321@gmail.com)
 
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parmeshwar4321" alt="parmeshwar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=promiseer" alt="parmeshwar" /></a> </p>
