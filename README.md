@@ -11,7 +11,12 @@ Hey Coderz!   This is  Parmeshwar
 
 ## 👨🏾‍💻 ABOUT ME
 
-<p>i am Backend developer.</p>
+<p>Fullstack Developer.</p>
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=promiseer&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=promiseer&theme=radical" />
+</p>
+<br/>
 
 ## 👨🏾‍🔧 MY SKILL SET
 
@@ -75,5 +80,3 @@ Hey Coderz!   This is  Parmeshwar
 [![Gmail Badge](https://img.shields.io/badge/-rathodparmeshwar4321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rathodparmeshwar4321@gmail.com)](mailto:rathodparmeshwar4321@gmail.com)
 
 <br />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=promiseer" alt="parmeshwar" /></a> </p>
